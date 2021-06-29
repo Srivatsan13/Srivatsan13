@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Srivatsan13
 - 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ... Python  
-- 💞️ I’m looking to collaborate on ... topics on Data scoence
+- 🌱 I’m currently learning ... Python, MongoDB  
+- 💞️ I’m looking to collaborate on ... topics on Data science
 - 📫 How to reach me ... srivatsanr27@gmail.com
 
 <!---
